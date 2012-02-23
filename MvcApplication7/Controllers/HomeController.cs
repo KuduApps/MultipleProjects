@@ -13,7 +13,7 @@ namespace MvcApplication7.Controllers
             ViewBag.Message = "Welcome to ASP.NET MVC 7!";
 
             return View();
-        }
+        
 
         public ActionResult About()
         {
